@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Animals</string>
+
+    <string-array name="animals_name">
+
+    <item>Squirrel</item>
+    <item>Dog</item>
+    <item>Chimpanzee</item>
+    <item>Ox</item>
+    <item>Kangaroo</item>
+    <item>Monkey</item>
+    <item>Hippopotamus</item>
+    <item>Giraffe</item>
+    <item>Hedgehong</item>
+    <item>Fox</item>
+    <item>Coyote</item>
+    <item>Elephant</item>
+    <item>Horse</item>
+    <item>Leopard</item>
+    <item>Walrus</item>
+    <item>Lion</item>
+    <item>Panda</item>
+    <item>Otter</item>
+    <item>Koala</item>
+    <item>Sheep</item>
+
+
+    </string-array>
+
+
+    <string-array name="Continents">
+        <item>ASIA</item>
+        <item>AFRICA</item>
+        <item>EUROPE</item>
+        <item>NORTH AMERICA</item>
+        <item>SOUTH AMERICA</item>
+        <item>AUSTRALIA</item>
+        <item>ANTARCTICA</item>
+        <item>ZEALANDIA</item>
+    </string-array>
+
+</resources>
