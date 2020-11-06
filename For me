@@ -1,0 +1,8 @@
+In myRow(Custom layout)
+----->>>>>>
+
+if ImageView is PNG
+android:src="@drawable/example.png"
+
+*****
+also PNG  in V24 will not allow to inflate
